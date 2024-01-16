@@ -15,3 +15,6 @@ which you can check by running
 ``` bash
     docker run -d -p 3000:5173 --name my-app docker-react:1.0
 ```
+
+
+Then go to localhost:3000
